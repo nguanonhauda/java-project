@@ -1,4 +1,4 @@
-package com.mycompany.HelloWorld.Week2;
+package com.mycompany.app.Week2;
 
 import java.util.Scanner  ; 
 

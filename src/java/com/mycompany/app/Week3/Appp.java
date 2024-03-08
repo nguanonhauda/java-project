@@ -1,4 +1,4 @@
-package com.mycompany.HelloWorld.Week3;
+package com.mycompany.app.Week3;
 
 public class Appp {
     

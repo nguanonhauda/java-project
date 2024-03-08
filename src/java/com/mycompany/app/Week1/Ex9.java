@@ -1,3 +1,5 @@
+package com.mycompany.app.Week1;
+
 //package com.mycompany.app.Week1;
 
 import java.util.Scanner;

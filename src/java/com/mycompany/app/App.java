@@ -1,15 +1,15 @@
-package com.mycompany.HelloWorld ;
+package com.mycompany.app;
+
+//package com.mycompany.HelloWorld ;
 //import com.mycompany.HelloWorld.Week2.Time;
 //import com.mycompany.HelloWorld.Week2.Book;
-import com.mycompany.HelloWorld.Week1.*;
+//import com.mycompany.HelloWorld.Week1.*;
 public class App{
    public static void main(String[] args) {
    
-<<<<<<< HEAD
-  
-=======
+
       System.out.println(" Hello Teacher " ) ;
->>>>>>> 78c4411fd752051025f868b5a15a147efb98c0be
+
     // Time .java
     /*Time a = new Time();
     a.setHour(3);
@@ -24,15 +24,8 @@ public class App{
     b.getNumPages("78");
     System.out.println(b.getTitle()); */
 
-<<<<<<< HEAD
-=======
       //NameNumber
       
-       
-
->>>>>>> 78c4411fd752051025f868b5a15a147efb98c0be
-      
-
 
    }    
 }

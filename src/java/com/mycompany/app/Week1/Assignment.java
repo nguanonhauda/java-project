@@ -1,3 +1,5 @@
+package com.mycompany.app.Week1;
+
 
 public class Assignment {
     public static class Number {
