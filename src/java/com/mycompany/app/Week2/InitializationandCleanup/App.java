@@ -38,8 +38,40 @@ public class App {
 
 
     //Ex7
-    Ex7 obj = new Ex7() ; 
-    obj.displayMessage();
+    /*Ex7 obj = new Ex7() ; 
+    obj.displayMessage();*/
+    
+
+    //Ex8
+    /*Ex8 obj = new Ex8() ; 
+    obj.method1();*/
+
+
+    // Ex9 
+    /*Ex9 objClass1 = new Ex9();
+    Ex9 objClass2 = new Ex9(8); 
+    System.out.println("Giá trị của class1 : " + objClass1.getValue());
+    System.out.println("Giá trị của class2 : " + objClass2.getValue()); */
+
+    // Ex10 , 11
+    /*Ex10 obj = new Ex10() ; 
+    obj.finalize();*/
+
+    // Ex12 
+    /*Ex12 myTank = new Ex12(); 
+    // Kiểm tra 
+    myTank.fill();//Đổ nc vào bình 
+    myTank.empty();// Bình rỗng 
+    myTank.finalize();*/
+
+
+    // Ex14 
+    //Ex14.pritnStaticField();
+
+
+    // Ex 15 
+    Ex15 obj = new Ex15() ; 
+    System.out.println("Chỗi đã được khởi tạo : " + obj.getMyString()); 
 
 }
 }
