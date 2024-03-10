@@ -1,6 +1,7 @@
 package com.mycompany.app.Week2.InitializationandCleanup;
 
 public class App {
+
     public static void main (String[] args) {
     // Ex 1 
    /* Ex1 obj = new Ex1(); 
@@ -70,8 +71,51 @@ public class App {
 
 
     // Ex 15 
-    Ex15 obj = new Ex15() ; 
-    System.out.println("Chỗi đã được khởi tạo : " + obj.getMyString()); 
+   /* Ex15 obj = new Ex15() ; 
+    System.out.println("Chỗi đã được khởi tạo : " + obj.getMyString()); */
 
+
+    // Ex16 
+    /*Ex16 myArr = new Ex16(); 
+    myArr.printStringArr();*/
+
+    // Ex17 
+    /*Ex17[] arry = new Ex17[5] ; 
+    for ( int i = 0 ; i < arry.length ; i++ ){
+    System.out.println("Phan tử " + i + " : " + arry[i]) ; 
+    }*/
+
+   /* Ex18[] array = new Ex18[4];
+        for (int i = 0; i < array.length; i++) {
+            array[i] = new Ex18("Đối tượng " + (i + 1)); 
+        }
+        for (int i = 0; i < array.length; i++) {
+            System.out.println("Phần tử " + i + ": " + array[i]);
+        }*/
+
+    // Ex19 
+    // Truyền vào chuỗi phân tách 
+   /* Ex19.printStrings("Táo" , "Nho" , "Dâu tây"); 
+
+    // Truyền mảng vào String 
+    String[] hoaQua = {"Táo" , "Nho" , "Dâu tây"} ; 
+    Ex19.printStrings(hoaQua) ; */
+
+    //Ex20
+    /*Ex20 myEx20 = new Ex20() ; 
+    String[] tuoi = {"4" , "48"};
+    myEx20.printArgs(tuoi);*/
+
+    // Ex21
+    /*Ex21 myEx21 = new Ex21() ; 
+    myEx21.printCurrency(); */
+
+    //Ex22
+    Ex22 myEx22 = new Ex22() ; 
+    myEx22.printCurrency2(Ex22.Type.DOLLAR);
+    myEx22.printCurrency2(Ex22.Type.EURO);
+    myEx22.printCurrency2(Ex22.Type.POUND);
+    myEx22.printCurrency2(Ex22.Type.YEN);
+    myEx22.printCurrency2(Ex22.Type.VND);
 }
 }
