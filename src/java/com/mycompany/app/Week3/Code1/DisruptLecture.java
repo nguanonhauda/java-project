@@ -13,5 +13,8 @@ public class DisruptLecture {
     }
     class ObnoxiusTune extends Tune {
         public ObnoxiusTune(){}
+        public void play(){
+            System.out.println("ObnoxiusTune.play()");
+        }
     }
 }
