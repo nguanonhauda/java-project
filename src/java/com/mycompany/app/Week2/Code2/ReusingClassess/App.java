@@ -1,11 +1,5 @@
-package com.mycompany.app.Week2.ReusingClassess;
+package com.mycompany.app.Week2.Code2.ReusingClassess;
 
-import com.mycompany.app.Week2.ReusingClassess.Ex15.DerivedClass;
-import com.mycompany.app.Week2.ReusingClassess.Ex16.Amphibian;
-import com.mycompany.app.Week2.ReusingClassess.Ex16.Frog;
-import com.mycompany.app.Week2.ReusingClassess.Ex18.FieldExample;
-import com.mycompany.app.Week2.ReusingClassess.Ex23.ClassLoaderDemo;
-import com.mycompany.app.Week2.ReusingClassess.Ex24.Ladybug;
 import com.mycompany.app.Week2.*;
 public class App {
     

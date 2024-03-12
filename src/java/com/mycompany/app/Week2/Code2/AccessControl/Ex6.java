@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2.AccessControl;
+package com.mycompany.app.Week2.Code2.AccessControl;
 
 public class Ex6 {
     

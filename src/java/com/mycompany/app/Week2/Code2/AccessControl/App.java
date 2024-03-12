@@ -1,7 +1,4 @@
-package com.mycompany.app.Week2.AccessControl;
-import com.mycompany.app.Week2.AccessControl.*;
-import com.mycompany.app.Week2.AccessControl.Ex6.FirstClass;
-import com.mycompany.app.Week2.AccessControl.Ex6.SecondClass;
+package com.mycompany.app.Week2.Code2.AccessControl;
 public class App {
     private static String packageAccessfile;
 

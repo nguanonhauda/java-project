@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2;
+package com.mycompany.app.Week2.Code1;
 
 public interface App {
     public static void main (String[] asgr ) {

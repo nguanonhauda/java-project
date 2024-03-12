@@ -1,6 +1,5 @@
-package com.mycompany.app.Week2.AccessControl;
+package com.mycompany.app.Week2.Code2.AccessControl;
 
-import net.mindview.simple.* ; 
 import java.util.* ; 
 
 
